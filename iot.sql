@@ -8,5 +8,5 @@ correo varchar(50) not null)
 engine=InnoDB;
 desc usuario;
 
-insert into usuario value("Jorge","1234","jh68538@gmail.com");
+insert into usuario value("Diana","diana_mtz","dm20333@gmail.com");
 select * from usuario;
